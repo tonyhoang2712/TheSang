@@ -1,0 +1,23 @@
+{
+  "name": "the-sang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --no-source-map --watch assets/scss:assets/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chienhd/TheSang.git"
+  },
+  "author": "Chien Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chienhd/TheSang/issues"
+  },
+  "homepage": "https://github.com/chienhd/TheSang#readme",
+  "dependencies": {
+    "sass": "^1.26.8"
+  }
+}
